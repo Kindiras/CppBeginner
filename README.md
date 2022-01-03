@@ -6,4 +6,4 @@
 + [Call-member-function-to-non-member-function](Call_member_to_non_member_function) is an example to show how to call member function to non member function.
 + [SomeAlgorithms](SomeAlgorithms) has some basic algorithms used with examples. 
 + [RecursiveExamples](RecursiveExamples) has some basic recursive function examples.
-+ [TicTacToe](TicTacToe) is practice code for TicTacToe game inspired by Udacity. 
++ [OperatorOverloading](OperatorOverloading) This contains the example of operator overloading in c++. 
